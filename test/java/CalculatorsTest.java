@@ -70,4 +70,5 @@ public class CalculatorsTest {
     public void assertExceptionTest(){
         Assertions.assertThrows(ArithmeticException.class,()->calc.devide(10,0));
     }
+
 }

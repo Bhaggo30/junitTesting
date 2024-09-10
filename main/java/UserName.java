@@ -16,7 +16,6 @@ public class UserName {
             throw new InvaliduserNameException("username not contains space");
         }
 
-
     }
 }
 
